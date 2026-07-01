@@ -1,0 +1,102 @@
+type,brand,model,weight
+frame,SPECIALIZED,S-Works Tarmac SL8 (2024-2026 最高峰オールラウンド),0.68
+frame,SPECIALIZED,Tarmac SL8 Pro/Expert (2024-2026),0.78
+frame,SPECIALIZED,S-Works Tarmac SL7 (2021-2023 一世を風靡した名車),0.8
+frame,SPECIALIZED,S-Works Tarmac SL6 (2018-2020 リム/ディスク過渡期の名作),0.73
+frame,SPECIALIZED,S-Works Venge ViAS (2016-2018 圧倒的エアロ),1.15
+frame,SPECIALIZED,S-Works Venge Third-Gen (2019-2021 完成されたエアロ),0.96
+frame,SPECIALIZED,S-Works Aethos (2021-2026 超軽量ディスク),0.58
+frame,SPECIALIZED,Allez Sprint Disc (2022-2026 高剛性アルミレーサー),1.15
+frame,SPECIALIZED,Allez Sprint DSW (2016-2021 リム版アルミ神),1.15
+frame,TREK,Madone SLR Gen 8 (2024-2026 最新超軽量エアロ),0.76
+frame,TREK,Madone SLR Gen 7 (2023 ISOフロー形状),1.05
+frame,TREK,Madone SLR Gen 6 (2019-2022 究極エアロ/ISOスピード),1.18
+frame,TREK,Émonda SLR Gen 2 (2021-2024 ヒルクライム機),0.69
+frame,TREK,Émonda SLR Gen 1 (2015-2017 初代超軽量リム),0.64
+frame,TREK,Émonda SL (2021-2024 定番ミドルカーボン),1.14
+frame,TREK,Domane SLR Gen 4 (2023-2026 エンデュランス最高峰),0.7
+frame,CANNONDALE,SuperSix EVO Gen 4 Lab71 (2023-2026 極限軽量),0.77
+frame,CANNONDALE,SuperSix EVO Gen 4 Hi-Mod (2023-2026),0.81
+frame,CANNONDALE,SuperSix EVO Carbon Gen 3 (2020-2022 セミエアロ),0.99
+frame,CANNONDALE,SuperSix EVO Hi-Mod Gen 2 (2016-2019 トラディショナル最高峰),0.77
+frame,CANNONDALE,SystemSix Hi-Mod (2019-2024 重量級モンスターエアロ),1.03
+frame,CANNONDALE,CAAD13 Disc (2020-2026 究極アルミ),1.15
+frame,CANNONDALE,CAAD12 (2016-2019 伝説の超軽量アルミ),1.09
+frame,GIANT,TCR Advanced SL Gen 11 (2025-2026 最新軽量レース),0.69
+frame,GIANT,TCR Advanced SL Gen 10 (2021-2024),0.76
+frame,GIANT,TCR Advanced PRO Gen 10 (2021-2024 コスパ最強),0.84
+frame,GIANT,TCR Advanced SL Gen 9 (2016-2020),0.85
+frame,GIANT,Propel Advanced SL Gen 4 (2023-2026 新世代エアロ),0.85
+frame,GIANT,Propel Advanced SL Gen 3 (2018-2022 V型ステム),1.12
+frame,GIANT,Defy Advanced SL Gen 5 (2024-2026),0.78
+frame,PINARELLO,Dogma F (2025-2026 最新フラッグシップ),0.86
+frame,PINARELLO,Dogma F12 (2019-2021 左右非対称マッシブ),1.01
+frame,PINARELLO,Dogma F10 (2017-2019 リム黄金期の名車),0.82
+frame,PINARELLO,Dogma F8 (2015-2017 ジャガー共同開発),0.86
+frame,PINARELLO,Prince FX (2019-2022 レーシングミドル),1.05
+frame,BIANCHI,Specialissima RC (2024-2026 新世代軽量レーサー),0.66
+frame,BIANCHI,Specialissima CV (2016-2023 カウンターヴェイル搭載),0.78
+frame,BIANCHI,Oltre RC (2023-2026 ヴォルテックスジェネレーター),0.915
+frame,BIANCHI,Oltre XR4 CV (2017-2022 傑作エアロロード),0.98
+frame,BIANCHI,XR3 CV (2018-2022 定番ミドルミドル),1.11
+frame,SCOTT,Addict RC (2020-2026 ヒルクライム最高峰),0.79
+frame,SCOTT,Foil RC (2023-2026 新世代エアロ),0.91
+frame,SCOTT,Foil Premium (2016-2021 前世代エアロ),0.94
+frame,ORBEA,Orca OMX (2024-2026 超軽量クライマー),0.75
+frame,ORBEA,Orca Aero (2022-2026 圧倒的空力ボディー),1.15
+frame,FUJI,SL 1.1 (2016-2021 驚異のヒルクライムフレーム),0.69
+frame,FUJI,Transonic 1.1 (2019-2024 骨太エアロ),1.18
+frame,MERIDA,Scultura Team-E (2022-2026 軽量オールラウンド),0.82
+frame,MERIDA,Scultura Team (2016-2021 リム軽量名作),0.75
+frame,MERIDA,Reacto Team-E (2021-2026 抜群の空力性能),0.95
+frame,KHODAABLOOM,Strauss Pro Tokyo (2021-2026 国産軽量レーサー),0.81
+frame,KHODAABLOOM,Strauss Disc Race (高剛性国内アルミ),1.46
+frame,GIOS,Leggero (カーボンレーシングモデル),0.94
+frame,GIOS,Compact Pro (伝統のクロモリモデル),1.9
+frame,FELT,FR FRD (2017-2022 テキストリームカーボン軽量),0.69
+frame,FELT,AR Advanced (2020-2026 エアロダイナミクス),1.1
+frame,BRIDGESTONE / ANCHOR,RP9 (2022-2026 トラック譲りの剛性),1.36
+frame,BRIDGESTONE / ANCHOR,RS9s (2019-2021 プロ仕様推進力理論),0.92
+frame,CERVELO,R5 Disc (2022-2026 純クライマーズバイク),0.7
+frame,CERVELO,S5 Disc (2023-2026 V型ステム一体型エアロ),1.07
+frame,CERVELO,P5 (TT・トライアスロンフラッグシップ),1.1
+frame,COLNAGO,V4Rs (2023-2026 ポガチャル全戦実戦投入),0.79
+frame,COLNAGO,C68 (2022-2026 伝統のラグ製法最高峰),0.93
+frame,COLNAGO,C64 (2018-2022 前世代クラシックラグ),0.9
+frame,FOCUS,Izalco Max Disc (2019-2026 ドイツの剛性レーサー),0.89
+frame,DE ROSA,Merak (2020-2025 軽量モダンレーサー),0.8
+frame,DE ROSA,Idol (定番の弓なりトップチューブ),1.1
+frame,BMC,Teammachine SLR01 Gen 4 (2021-2026),0.82
+frame,BMC,Timemachine Road01 (究極統合エアロ),1.05
+frame,LAPIERRE,Xelius SL Gen 3 (2022-2026 3Dチューブラー),0.84
+frame,RIDLEY,Noah Fast Disc (ベルギーの弾丸エアロ),1.02
+frame,RIDLEY,Helium SLX Disc (石畳で鍛えた超軽量),0.78
+frame,CIPOLLINI,RB1K AD.ONE (超高剛性モノコックスプリント),1.11
+frame,ARGON18,Gallium Pro (カナディアン軽量レーサー),0.79
+frame,CORRATEC,Corones (職人仕上げの高品質アルミ),1.2
+frame,RALEIGH,Carlton CRM (クラシックカーボン),1.1
+frame,LOOK,795 Blade 2 RS (2024-2026 トラック技術応用),0.9
+frame,LOOK,785 Huez RS (名作ピュアヒルクライム),0.73
+frame,BOTTECCHIA,Emme 4 Superlight (イタリア職人軽量),0.78
+frame,CINELLI,Pressure (チネリの新世代エアロ),0.99
+frame,CARRERA,Phibra Next (変態的近未来形状の傑作),1.14
+frame,CALAMITA,Due (ハンドメイド軽量クロモリ),1.8
+frame,BASSO,Diamante SV (イタリアンプレミアムフラッグシップ),0.99
+frame,BH,Ultralight EVO (ヒルクライムモンスター),0.75
+frame,FACTOR,Ostro VAM (2024-2026 超軽量最新エアロ),0.82
+frame,FACTOR,O2 VAM (極限のヒルクライムフレーム),0.54
+frame,BOMA,Sai2 (日本のカーボン製品の雄・軽量モデル),0.93
+frame,TIME,Alpe d'Huez 01 (RTM製法・究極のカーボン繊維),0.84
+frame,TIME,Scylon (TIME至高のエアロロード),0.95
+wheel,Shimano,Dura-Ace WH-R9270-C36 (ヒルクライム用),1.35
+wheel,Shimano,Ultegra WH-R8170-C50 (高速巡航用),1.57
+wheel,MAVIC,Cosmic SLR 45 (定番カーボン),1.44
+wheel,MAVIC,Ksyrium SL (最高峰アルミ),1.48
+wheel,ZIPP,303 Firecrest (万能ディープ),1.35
+wheel,DT Swiss,PRC 1100 Dicut (超軽量カーボン),1.28
+wheel,Fulcrum,Racing Zero (剛性最強アルミ),1.49
+wheel,Shimano,WH-RS171 (いわゆる鉄下駄アルミ),2.0
+comp,Shimano,Dura-Ace R9200 (2x12速 最高峰Di2),2.51
+comp,Shimano,Ultegra R8100 (2x12速 本格レースDi2),2.72
+comp,Shimano,105 R7100 (2x12速 初めてのDi2),2.99
+comp,Shimano,105 R7100 (2x12速 確実な機械式),2.96
